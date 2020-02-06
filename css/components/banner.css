@@ -1,0 +1,17 @@
+.banner {
+  display:flex;
+  align-items: center;
+  justify-content: center;
+  background-image: url("../../images/hitachi2.png");
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+  height: 500px
+}
+.btn {
+  color: #38471f;
+  background: #5B7942;
+  border-radius: 50px;
+  padding: 10px 20px;
+  margin-top: 8px;
+}
